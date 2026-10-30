@@ -4,9 +4,7 @@
 
 ## ゲームを遊ぶ
 
-**このリンクは公開後に設定してください。** 下の仮URLを、GitHub Pagesで取得したゲームのURLに書き換えると使えます。
-
-[DANCE MATCH! を遊ぶ](https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/)
+[DANCE MATCH! を遊ぶ](https://siro-pj-tech.github.io/dance-mach/)
 
 スマートフォンの縦画面を基本に、パソコンでも縦型の画面で遊べます。音楽と効果音が流れますので、タイトル画面のスライダーで音量を調整してください。
 
@@ -33,6 +31,6 @@
 
 ## 公開について
 
-このフォルダの内容をGitHubリポジトリに配置し、GitHub Pagesで公開してください。公開後、このREADMEの仮URLを実際のURLに差し替えてください。`index.html` がゲームの入口です。
+
 
 バージョン：1.0
